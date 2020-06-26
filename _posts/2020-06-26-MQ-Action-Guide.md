@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "孟琦行动指南"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   "我们都在练习，如何和自己相处，和这个世界相处。"
 date:       2020-06-26 19:00:00
 author:     "孟琦"
-header-img: "img/post-bg-2015.jpg"
+header-img: "https://images.unsplash.com/photo-1501820488136-72669149e0d4?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjYzOTIxfQ&w=4800"
 catalog: life
 tags:
     - life
