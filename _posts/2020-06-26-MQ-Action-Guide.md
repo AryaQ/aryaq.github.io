@@ -4,7 +4,7 @@ title:      "孟琦行动指南"
 subtitle:   "我们都在练习，如何和自己相处，和这个世界相处。"
 date:       2020-06-26 19:00:00
 author:     "孟琦"
-header-img: "img/in-post/2020-06-26-post1.jpg"
+header-img: "img/in-post/2020-06-26-post.jpg"
 catalog: life
 tags:
     - life
